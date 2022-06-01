@@ -1,0 +1,33 @@
+.todo {
+    display: flex;
+    margin: auto;
+    gap: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    height: 30px;
+    margin-top: 30px;
+    padding: 10px;
+  }
+  .todolist {
+    margin-left: 43%;
+    margin-top: 30px;
+    width: fit-content;
+  }
+  .striked {
+    text-decoration: line-through;
+  }
+  .box {
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    height: 30px;
+  }
+  * {
+    background-color: grey;
+  }
+  .row {
+    display: flex;
+    gap: 20px;
+  }
+  
